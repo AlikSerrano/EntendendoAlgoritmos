@@ -38,3 +38,5 @@ perfil_cliente["pais_residencia"] = "Portugal"
 
 # 4. Imprima o dicionário inteiro para garantir que tudo está correto!
 print("Perfil atualizado no sistema:", perfil_cliente)
+
+print("ESTOU NO UNIVERSO PARALELO E NADA PODE ME ATINGIR")
